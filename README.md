@@ -20,8 +20,3 @@
 
 **Дополнительно:**
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilnurav&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
